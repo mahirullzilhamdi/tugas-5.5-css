@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    padding: 30px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+nav a {
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+}
+
+main {
+    padding: 30px;
+    text-align: center;
+}
+
+main p {
+    text-align: left;
+}
+
+.gallery {
+    padding: 30px;
+    text-align: center;
+    background-color: lightgray;
+}
